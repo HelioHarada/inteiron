@@ -1,0 +1,20 @@
+$primary-color: #21897A;
+$active-color: #12665A;
+$hover-color: #3F897E;
+$white: #FFF8F4;
+
+$second-color: #8A4021;
+$action-color: #E16A02;
+
+
+
+.btn-primary{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 16px;
+    gap: 10px;
+    box-shadow: 0px 4px 4px rgba(39, 17, 89, 0.24);
+    border-radius: 2px;
+}
